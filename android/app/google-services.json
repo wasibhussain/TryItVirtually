@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "99471530214",
+    "firebase_url": "https://wasibh3.firebaseio.com",
+    "project_id": "wasibh3",
+    "storage_bucket": "wasibh3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99471530214:android:1baf2a6c33ebbec2190327",
+        "android_client_info": {
+          "package_name": "com.example.tryvirtually"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99471530214-lc8h1pm698uk6jqdilkshkofm5535ggs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzuCGIkU7nD1VexfFGcmTtbCQTMwotU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99471530214-lc8h1pm698uk6jqdilkshkofm5535ggs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
